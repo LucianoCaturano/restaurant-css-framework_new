@@ -30,4 +30,4 @@ Minimum 5 pages accessible by a navigation bar (navbar) present on all pages and
 - Bootstrap 4 
 - Readme.
 
-![project mockup](assets/img/Capture d’écran 2020-06-20 à 23.03.48.png).
+![project mockup](/assets/img/project_mockup).
