@@ -30,4 +30,4 @@ Minimum 5 pages accessible by a navigation bar (navbar) present on all pages and
 - Bootstrap 4 
 - Readme.
 
-![project mockup](/assets/img/project_mockup).
+![project mockup](desktop/assets/img/project_mockup).
